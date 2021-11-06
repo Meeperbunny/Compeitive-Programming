@@ -1,2 +1,1 @@
-# USACO-Training
-A re-run of the USACO training problems which I completed in high school
+# A collection of competitive programming problems
